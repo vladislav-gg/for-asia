@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+}
+.main{
+    text-align: center;
+    position: absolute;
+    left: 35%;
+    top: 40%;
+    font-family: "Open sans";
+}
